@@ -33,12 +33,12 @@ Step 4 – After Clicking On This API You Get A New Page So Scroll A Little Bit 
 
 
 
+![image](https://user-images.githubusercontent.com/115479334/211722339-3c7a4bb1-7df8-4420-b51e-965df31cc54a.png)
+
+
 OUTPUT:
 
 
 ![OUTPUT](https://user-images.githubusercontent.com/115479334/211723232-b6dc8912-e300-4b8a-a933-392afc071adb.png)
 
-
-
-![image](https://user-images.githubusercontent.com/115479334/211722339-3c7a4bb1-7df8-4420-b51e-965df31cc54a.png)
 
