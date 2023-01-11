@@ -7,6 +7,7 @@ To fetch the weather information API key from https://openweathermap.org/ is nec
 Steps To Create API Key:
 
 Step 1 – API Key Info – Go To Google Search OpenWeatherMap API, Click On 1st Link And Make Your Account Here And Sign Up. After Signing Up, You See The Home Page.
+![image](https://user-images.githubusercontent.com/115479334/211721888-ed3f1ccb-5509-4baf-839d-8049c16f6912.png)
 
 
 Step 2 -After Signing Up On This Open Weather API Website Whatever You See On The Home Page Because Sometimes You Get An API Key On The Home Page And Sometimes In The API Section So Click On API ( In Their Menu You Can See In The Image API) So Click On API.
